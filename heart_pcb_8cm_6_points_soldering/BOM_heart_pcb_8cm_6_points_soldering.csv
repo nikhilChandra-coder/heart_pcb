@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,Quantity,JLCPCB Part #?optional?
+SW_Push,SW1,SW_PUSH_6mm,1,
+BAT-HLD-001-THM,BT1,BAT_BAT-HLD-001-THM,1,
+470,"R2,R3,R1",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,3,
