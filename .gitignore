@@ -17,4 +17,4 @@ fp-info-cache
 *.rpt
 
 # Manufacturing Output
-Gerber/
+gerber/
